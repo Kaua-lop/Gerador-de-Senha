@@ -22,7 +22,7 @@ Um gerador de senha simples e personalizável feito com **HTML** e **JavaScript*
 
 ## 📷 Preview
 
-![Preview do Gerador de Senha](Preview.png) <!-- Adicione um print do projeto com esse nome ou atualize o link -->
+![Preview do Gerador de Senha](Preview.jpg) <!-- Adicione um print do projeto com esse nome ou atualize o link -->
 
 ## 📦 Como usar
 
